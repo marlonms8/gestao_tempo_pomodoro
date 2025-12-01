@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Arquivos específicos do projeto Gestao Tempo
+gestao_tempo.exe
+*.exe
+pomodoro_study.db
